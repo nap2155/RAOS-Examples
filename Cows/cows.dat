@@ -1,7 +1,3 @@
-Data from an experiment on the effect on milk production of an
-additive to the diet of 50 cows.  Table 7.5 from Bayesian Data
-Analysis.
-
 level lactation age initial.weight dry milk fat solids final.weight protein
   0  3  49  1360  15.429  45.552  3.88  8.96  1442  3.67 
   0  3  47  1498  18.799  66.221  3.40  8.44  1565  3.03 
